@@ -9,3 +9,5 @@ this is a log message
 Heading 3
 
 This is bound to cause trouble
+
+adding a new line
