@@ -8,4 +8,4 @@ this is a log message
 
 Heading 3
 
-there are just some updates, on our new branch.
+this isn't much of a problem
