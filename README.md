@@ -8,4 +8,4 @@ this is a log message
 
 Heading 3
 
-this isn't much of a problem
+This is bound to cause trouble
